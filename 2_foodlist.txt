@@ -8,3 +8,5 @@
 ---- master ----
 6:clock
 7:wife
+8:book
+9:pen
