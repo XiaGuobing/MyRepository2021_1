@@ -10,3 +10,8 @@
 7:wife
 8:book
 9:pen
+
+
+---- development ---
+10:sleep
+11:drink
